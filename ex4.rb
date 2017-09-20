@@ -1,10 +1,18 @@
+# cars variable = 100 (integer)
 cars = 100
+# variable = 4.0 (floating point number with 1 decimal place)
 space_in_a_car = 4.0
+# variable = 30 (integer)
 drivers = 30
+# variable = 90 (integer)
 passengers = 90
+# variable = cars (variable) MINUS drivers (variable)
 cars_not_driven = cars - drivers
+# variable = other variable
 cars_driven = drivers
+# variable MULTIPLIED BY other variable
 carpool_capacity = cars_driven * space_in_a_car
+# variable DEVIDED BY other variable
 average_passengers_per_car = passengers / cars_driven
 
 
