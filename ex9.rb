@@ -12,3 +12,8 @@ With this weird quote
 We'll be able to type as much as we like.
 Even 4 lines if we want, or 5, or 6.
 }
+
+# What if I wanted to start the months on a new line?
+# You simply start the string with \n like this:
+#
+# "\nJan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug"
