@@ -16,3 +16,6 @@ puts formatter % {
   third: "But it didn't sing.",
   fourth: "So I said goodnight."
 }
+
+# Should I use %{} or #{} for formatting?
+# You will almost always use #{} to format your strings, but there are times when you want to apply the same format to multiple values. That's when %{} comes in handy.
