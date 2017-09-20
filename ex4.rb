@@ -1,7 +1,7 @@
 # cars variable = 100 (integer)
 cars = 100
 # variable = 4.0 (floating point number with 1 decimal place)
-space_in_a_car = 4.0
+space_in_a_car = 4
 # variable = 30 (integer)
 drivers = 30
 # variable = 90 (integer)
