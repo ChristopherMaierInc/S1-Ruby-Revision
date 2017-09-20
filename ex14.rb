@@ -1,5 +1,7 @@
-user_name = ARGV.first # gets the first argument
-prompt = '> '
+first, second = ARGV # gets the first argument
+prompt = '==={=======>'
+user_name = first
+prompt = second
 
 puts "Hi #{user_name}."
 puts "I'd like to ask you a few questions."
